@@ -1,0 +1,204 @@
+1,Chicken Curry,NonVeg Curries,100,132
+2,Chicken Kurma,NonVeg Curries,100,166
+3,Tandoori Chicken Breast,NonVeg Curries,100,700
+4,Aloo Ghost Kari (Goat),NonVeg Curries,100,600
+5,Rogan Josh,NonVeg Curries,100,500
+6,Aloo Baigan Mixed Vegetable,Vegetable Curries,100,103
+7,Aloo Beans Mixed Vegetable,Vegetable Curries,100,134
+8,Aloo Curry,Vegetable Curries,100,105
+9,Baigan ka Bharta,Vegetable Curries,100,70
+10,Bhindi (Okra),Vegetable Curries,100,161
+11,Chole (Chickpeas),Vegetable Curries,100,74
+12,Methi Aloo,Vegetable Curries,100,121
+13,Mutter Paneer,Vegetable Curries,100,147
+14,Rajma (Kidney beans),Vegetable Curries,100,102
+15,Shahi Paneer,Vegetable Curries,100,277
+16,Shimla Mirch Aloo,Vegetable Curries,100,93
+17,Stuffed Tomato,Vegetable Curries,100,85
+18,Vegetable Jalfrazi,Vegetable Curries,100,159
+19,Vegetable Kofta Curry,Vegetable Curries,100,150
+20,Vegetable Korma,Vegetable Curries,100,88
+21,Arhar dal,Dals (Lentils),100,53
+22,Chana dal,Dals (Lentils),100,99
+23,Dal Makhani,Dals (Lentils),100,117
+24,Moong dal,Dals (Lentils),100,211
+25,Masoor dal,Dals (Lentils),100,165
+26,Urad dal,Dals (Lentils),100,107
+27,Sambhar,Dals (Lentils),100,5
+28,Boiled Rice,Rice,100,111
+29,Pulao,Rice,100,119
+30,Khichadi,Rice,100,215
+31,Biryani (Mutton),Rice,100,225
+32,Biryani (Veg.),Rice,100,200
+33,Pulav (Veg.),Rice,100,130
+34,Beer,Beverages,100,44
+35,Cola,Beverages,100,45
+36,Wine,Beverages,100,85
+37,Milk (Cow),Dairy Products,100,67
+38,Milk (Buffalo),Dairy Products,100,117
+39,Yogurt,Dairy Products,100,60
+40,Buttermilk,Dairy Products,100,15
+41,Paneer (Cow’s milk),Dairy Products,100,265
+42,Paneer (Buffalo’s milk),Dairy Products,100,292
+43,Lassi,Dairy Products,100,69
+44,Samosa,Starters,100,252
+45,Poppadums,Starters,100,408
+46,Aloo Tikki,Starters,100,101
+47,Pakoda Onion,Starters,100,543
+48,Pakoda Paneer,Starters,100,300
+49,Vada(Medu),Starters,100,170
+50,Besan Laddu,Desserts,100,787
+51,Coconut Barfi,Desserts,100,523
+52,Kaju Rolls,Desserts,100,593
+53,Kheer,Desserts,100,230
+54,Ice Cream,Desserts,100,170
+55,Malai Kulfi,Desserts,100,280
+56,Mango Kulfi,Desserts,100,210
+57,Rasgulla,Desserts,100,485
+58,Til Laddu,Desserts,100,275
+59,Beetroot,Roots and Tubers,100,35.6
+60,Carrot,Roots and Tubers,100,33.2
+61,Potato brown,Roots and Tubers,100,69.7
+62,"Radish,white",Roots and Tubers,100,32.2
+63,"Sweet potato,brown",Roots and Tubers,100,108.9
+64,Tapioca,Roots and Tubers,100,79.8
+65,Yam,Roots and Tubers,100,84.3
+66,Apple,Fruits,100,62.3
+67,"Apricot, dried",Fruits,100,31.5
+68,Avocado,Fruits,100,144.3
+69,Banana,Fruits,100,110.6
+70,Blackberry fruit,Fruits,100,54.2
+71,Cherries red,Fruits,100,59.7
+72,Blackcurrants,Fruits,100,54.2
+73,Custard apple,Fruits,100,98.9
+74,"Dates, dry",Fruits,100,320.2
+75,Fig,Fruits,100,81.5
+76,Grapes,Fruits,100,60.7
+77,Guava,Fruits,100,32.2
+78,Jack fruit,Fruits,100,72.1
+79,Sweet lime,Fruits,100,27.2
+80,Litchi,Fruits,100,53.7
+81,Mango,Fruits,100,41.8
+82,Musk melon,Fruits,100,23.1
+83,Orange,Fruits,100,37.2
+84,Papaya,Fruits,100,23.9
+85,Peach,Fruits,100,40.1
+86,Pear,Fruits,100,37.5
+87,Pineapple,Fruits,100,43
+88,Plum,Fruits,100,56.8
+89,Pomegranate,Fruits,100,54.7
+90,"Raisins, black",Fruits,100,305.6
+91,Sapota,Fruits,100,73.3
+92,Strawberry,Fruits,100,24.6
+93,Watermelon,Fruits,100,20.3
+94,Wood apple,Fruits,100,78.1
+95,Green chillies,Condiments and Spices,100,45.6
+96,Coriander seeds,Condiments and Spices,100,268.8
+97,Curry leaves,Condiments and Spices,100,63.5
+98,Garlic,Condiments and Spices,100,123.8
+99,"Ginger, fresh",Condiments and Spices,100,54.9
+100,Mint leaves,Condiments and Spices,100,37
+101,Onion,Condiments and Spices,100,48
+102,Asafoetida,Condiments and Spices,100,331.5
+103,"Cardamom, green",Condiments and Spices,100,255
+104,Red chillies,Condiments and Spices,100,236.6
+105,Cloves,Condiments and Spices,100,186.6
+106,Cumin seeds,Condiments and Spices,100,304.4
+107,Black cumin (Kalonji),Condiments and Spices,100,345
+108,Fenugreek seeds,Condiments and Spices,100,234.9
+109,Nutmeg,Condiments and Spices,100,463.6
+110,Basil seeds,Condiments and Spices,100,22
+111,Anise seeds,Condiments and Spices,100,153.3
+112,"Pepper, black",Condiments and Spices,100,217.4
+113,Poppy seeds,Condiments and Spices,100,422.5
+114,Turmeric powder,Condiments and Spices,100,280.5
+115,Almond,Nuts and Oil seeds,100,609.2
+116,Arecanut dried,Nuts and Oil seeds,100,350.6
+117,Cashew nut,Nuts and Oil seeds,100,582.6
+118,Coconut dry,Nuts and Oil seeds,100,624
+119,Coconut fresh,Nuts and Oil seeds,100,408.9
+120,Gingelly seeds,Nuts and Oil seeds,100,507.6
+121,Ground nut,Nuts and Oil seeds,100,520
+122,Linseeds,Nuts and Oil seeds,100,443.8
+123,Pine seed,Nuts and Oil seeds,100,594.1
+124,Pistachio nuts,Nuts and Oil seeds,100,539.4
+125,Sunflower seeds,Nuts and Oil seeds,100,586.2
+126,Walnut,Nuts and Oil seeds,100,671
+127,Flax seeds,Nuts and Oil seeds,100,534
+128,Chia seeds,Nuts and Oil seeds,100,486
+129,Jaggery cane,Sugars,100,353.7
+130,"Sugarcane, juice",Sugars,100,57.8
+131,Ghee,Fats and Oils,100,920
+132,Butter,Fats and Oils,100,717
+133,Oil,Fats and Oils,100,900
+134,Cheese,Fats and Oils,100,264.5
+135,Coconut water,Miscellaneous foods,100,15.2
+136,Cat fish,Fish and seafood,100,108.9
+137,Mackerel,Fish and seafood,100,101
+138,Matha,Fish and seafood,100,92.9
+139,Pomfret,Fish and seafood,100,123
+140,Salmon,Fish and seafood,100,172.3
+141,Sardine,Fish and seafood,100,152.2
+142,Shark,Fish and seafood,100,95.1
+143,Silver fish,Fish and seafood,100,132.6
+144,Catla,Fish and seafood,100,94.1
+145,Tuna,Fish and seafood,100,112.3
+146,Crab,Fish and seafood,100,81.9
+147,Lobster,Fish and seafood,100,89.6
+148,Oyster,Fish and seafood,100,60.2
+149,Tiger prawns,Fish and seafood,100,65.2
+150,Clam,Fish and seafood,100,58
+151,Squid,Fish and seafood,100,80
+152,Amaranth leaves,Green leafy vegetables,100,30.5
+153,Beet greens,Green leafy vegetables,100,34.6
+154,Brussels sprouts,Green leafy vegetables,100,44.2
+155,Cabbage Chinese,Green leafy vegetables,100,17.9
+156,"Cabbage, green",Green leafy vegetables,100,21.5
+157,Cauliflower leaves,Green leafy vegetables,100,35.4
+158,"Colocasia leaves, green",Green leafy vegetables,100,43.4
+159,Drumstick leaves,Green leafy vegetables,100,67.3
+160,Fenugreek leaves,Green leafy vegetables,100,34.4
+161,Lettuce,Green leafy vegetables,100,21.7
+162,Mustard leaves,Green leafy vegetables,100,30.3
+163,Parsley,Green leafy vegetables,100,72.8
+164,Radish leaves,Green leafy vegetables,100,26.05
+165,Spinach,Green leafy vegetables,100,24.3
+166,Rice (Brown),Cereals and Millets,100,353.7
+167,Rice Parboiled,Cereals and Millets,100,351.5
+168,Rice Raw milled,Cereals and Millets,100,356.3
+169,Wheat whole,Cereals and Millets,100,321.9
+170,Wheat flour,Cereals and Millets,100,320.2
+171,Bulgar wheat,Cereals and Millets,100,341.7
+172,Refined flour,Cereals and Millets,100,351.8
+173,Ragi,Cereals and Millets,100,320.7
+174,Rice flakes,Cereals and Millets,100,353.7
+175,Wheat semolina,Cereals and Millets,100,333.6
+176,Wheat vermicelli,Cereals and Millets,100,332.6
+177,Barley,Cereals and Millets,100,315.7
+178,Bajra,Cereals and Millets,100,347.9
+179,Jowar,Cereals and Millets,100,334.1
+180,Quinoa,Cereals and Millets,100,328.3
+181,"Amaranth seed, Black",Cereals and Millets,100,356.1
+182,"Bengal gram, dal",Grain legumes,100,329.1
+183,"Bengal gram, whole",Grain legumes,100,287
+184,Black gram whole,Grain legumes,100,291.3
+185,"Cow pea, brown",Grain legumes,100,320.2
+186,"Cow pea, white",Grain legumes,100,320.2
+187,Green gram dal,Grain legumes,100,325.7
+188,"Green gram, whole",Grain legumes,100,293.7
+189,"Horse gram, whole",Grain legumes,100,329.5
+190,Lentil dal,Grain legumes,100,322.4
+191,"Peas, dry",Grain legumes,100,303.2
+192,"Rajma, red",Grain legumes,100,299.2
+193,"Red gram, dal",Grain legumes,100,330.7
+194,"Red gram, whole",Grain legumes,100,273.9
+195,"Soya bean, brown",Grain legumes,100,381.4
+196,Biscuit (Sweet),Cooked Food,100,467
+197,Chocolate Biscuits,Cooked Food,100,520
+198,Cake (Plain),Cooked Food,100,270
+199,Cake (Rich Chocolate),Cooked Food,100,450
+200,Dosa (Plain),Cooked Food,100,135
+201,Dosa (Masala),Cooked Food,100,250
+202,Puri,Cooked Food,100,85
+203,Chappatti,Cooked Food,100,119
+204,Parota,Cooked Food,100,280
